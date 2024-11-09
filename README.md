@@ -1,6 +1,6 @@
 # Shopee_App
 
-Django shopee ecommerece app is a full featured shopping app. You have to register in this app.  If you already register you can not register again. Only the seller of  add product , edit product, update product, delete product. There is a search option for product. Also user can filter product by name, publish date, and by number of product. Pagination will work even after applying filter.It is an E-commerce system built in Django. It contains all the essentials for adding products and use Razorpay and Stripe as payment systems.
+Django shopee ecommerece app is a full featured shopping app. You have to register in this app.  If you already register you can not register again. Only the seller of  add product , edit product, update product, delete product. There is a search option for product. Also user can filter product by name, publish date, and by number of product. Pagination will work even after applying filter.It is an E-commerce system built in Django. It contains all the essentials for adding products and use Razorpay and Stripe as payment system.
 
 
 <h2>To migrate the database open terminal in project directory and type</h2>
